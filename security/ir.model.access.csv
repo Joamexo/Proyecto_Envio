@@ -1,0 +1,2 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_gestion__producto_gestion__producto,gestion__producto.gestion__producto,model_gestion__producto_gestion__producto,base.group_user,1,1,1,1
