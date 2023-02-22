@@ -1,0 +1,16 @@
+2023-02-16 03:12:17.151 GMT [3404] LOG:  se recibiÛ peticiÛn de apagado r·pido
+2023-02-16 03:12:17.166 GMT [7984] ERROR:  cancelando la sentencia debido a una peticiÛn del usuario
+2023-02-16 03:12:17.174 GMT [3404] LOG:  abortando transacciones activas
+2023-02-16 03:12:17.195 GMT [9020] FATAL:  terminando la conexi√≥n debido a una orden del administrador
+2023-02-16 03:12:17.212 GMT [3140] FATAL:  terminando la conexi√≥n debido a una orden del administrador
+2023-02-16 03:12:17.237 GMT [8240] FATAL:  terminando la conexi√≥n debido a una orden del administrador
+2023-02-16 03:12:17.270 GMT [3364] FATAL:  terminando la conexi√≥n debido a una orden del administrador
+2023-02-16 03:12:17.315 GMT [8080] FATAL:  terminando la conexi√≥n debido a una orden del administrador
+2023-02-16 03:12:17.356 GMT [1620] FATAL:  terminando la conexi√≥n debido a una orden del administrador
+2023-02-16 03:12:17.395 GMT [7472] FATAL:  terminando la conexi√≥n debido a una orden del administrador
+2023-02-16 03:12:17.436 GMT [6484] FATAL:  terminando la conexi√≥n debido a una orden del administrador
+2023-02-16 03:12:17.465 GMT [7204] FATAL:  terminando la conexi√≥n debido a una orden del administrador
+2023-02-16 03:12:17.501 GMT [3404] LOG:  proceso ayudante ´logical replication launcherª (PID 7984) terminÛ con cÛdigo de salida 1
+2023-02-16 03:12:17.561 GMT [7176] LOG:  apagando
+2023-02-16 03:12:17.604 GMT [1856] FATAL:  el sistema de base de datos est· apag·ndose
+2023-02-16 03:12:17.718 GMT [3404] LOG:  el sistema de bases de datos est· apagado

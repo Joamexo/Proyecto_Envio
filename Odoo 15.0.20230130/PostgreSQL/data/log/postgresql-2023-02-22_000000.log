@@ -1,0 +1,58 @@
+2023-02-22 01:48:23.335 GMT [5460] LOG:  no se pudo recibir datos del cliente: An existing connection was forcibly closed by the remote host.
+	
+2023-02-22 01:49:10.913 GMT [8576] LOG:  no se pudo recibir datos del cliente: An existing connection was forcibly closed by the remote host.
+	
+2023-02-22 01:49:43.584 GMT [8440] ERROR:  la columna «date_modify» contiene valores nulos
+2023-02-22 01:49:43.584 GMT [8440] SENTENCIA:  ALTER TABLE "product_template" ALTER COLUMN "date_modify" SET NOT NULL
+2023-02-22 01:52:11.297 GMT [8424] ERROR:  la columna «x_date_modify» contiene valores nulos
+2023-02-22 01:52:11.297 GMT [8424] SENTENCIA:  ALTER TABLE "product_template" ALTER COLUMN "x_date_modify" SET NOT NULL
+2023-02-22 01:52:22.513 GMT [4968] ERROR:  la columna «date_modify» contiene valores nulos
+2023-02-22 01:52:22.513 GMT [4968] SENTENCIA:  ALTER TABLE "product_template" ALTER COLUMN "date_modify" SET NOT NULL
+2023-02-22 13:39:37.793 GMT [8372] LOG:  no se pudo recibir datos del cliente: An existing connection was forcibly closed by the remote host.
+	
+2023-02-22 13:42:23.270 GMT [9052] LOG:  no se pudo recibir datos del cliente: An existing connection was forcibly closed by the remote host.
+	
+2023-02-22 13:42:56.588 GMT [2900] ERROR:  la columna «date_modify» contiene valores nulos
+2023-02-22 13:42:56.588 GMT [2900] SENTENCIA:  ALTER TABLE "product_template" ALTER COLUMN "date_modify" SET NOT NULL
+2023-02-22 13:42:57.601 GMT [2900] ERROR:  la columna «date_modify» contiene valores nulos
+2023-02-22 13:42:57.601 GMT [2900] SENTENCIA:  ALTER TABLE "product_template" ALTER COLUMN "date_modify" SET NOT NULL
+2023-02-22 13:42:58.024 GMT [2900] ERROR:  la columna «date_modify» contiene valores nulos
+2023-02-22 13:42:58.024 GMT [2900] SENTENCIA:  ALTER TABLE "product_template" ALTER COLUMN "date_modify" SET NOT NULL
+2023-02-22 13:43:42.179 GMT [6764] ERROR:  la columna «date_modify» contiene valores nulos
+2023-02-22 13:43:42.179 GMT [6764] SENTENCIA:  ALTER TABLE "product_template" ALTER COLUMN "date_modify" SET NOT NULL
+2023-02-22 13:48:38.740 GMT [3984] LOG:  no se pudo recibir datos del cliente: An existing connection was forcibly closed by the remote host.
+	
+2023-02-22 13:49:02.804 GMT [9348] ERROR:  la columna «date_modify» contiene valores nulos
+2023-02-22 13:49:02.804 GMT [9348] SENTENCIA:  ALTER TABLE "product_template" ALTER COLUMN "date_modify" SET NOT NULL
+2023-02-22 13:49:03.762 GMT [9348] ERROR:  la columna «date_modify» contiene valores nulos
+2023-02-22 13:49:03.762 GMT [9348] SENTENCIA:  ALTER TABLE "product_template" ALTER COLUMN "date_modify" SET NOT NULL
+2023-02-22 13:49:04.150 GMT [9348] ERROR:  la columna «date_modify» contiene valores nulos
+2023-02-22 13:49:04.150 GMT [9348] SENTENCIA:  ALTER TABLE "product_template" ALTER COLUMN "date_modify" SET NOT NULL
+2023-02-22 13:53:20.568 GMT [9600] LOG:  no se pudo recibir datos del cliente: An existing connection was forcibly closed by the remote host.
+	
+2023-02-22 14:05:11.383 GMT [2096] ERROR:  la columna «date_modify» contiene valores nulos
+2023-02-22 14:05:11.383 GMT [2096] SENTENCIA:  ALTER TABLE "product_template" ALTER COLUMN "date_modify" SET NOT NULL
+2023-02-22 14:05:12.429 GMT [2096] ERROR:  la columna «date_modify» contiene valores nulos
+2023-02-22 14:05:12.429 GMT [2096] SENTENCIA:  ALTER TABLE "product_template" ALTER COLUMN "date_modify" SET NOT NULL
+2023-02-22 14:05:12.999 GMT [2096] ERROR:  la columna «date_modify» contiene valores nulos
+2023-02-22 14:05:12.999 GMT [2096] SENTENCIA:  ALTER TABLE "product_template" ALTER COLUMN "date_modify" SET NOT NULL
+2023-02-22 14:05:46.874 GMT [3936] LOG:  no se pudo recibir datos del cliente: An existing connection was forcibly closed by the remote host.
+	
+2023-02-22 14:07:19.201 GMT [5728] ERROR:  la columna «date_modify» contiene valores nulos
+2023-02-22 14:07:19.201 GMT [5728] SENTENCIA:  ALTER TABLE "product_template" ALTER COLUMN "date_modify" SET NOT NULL
+2023-02-22 14:07:19.937 GMT [5728] ERROR:  la columna «date_modify» contiene valores nulos
+2023-02-22 14:07:19.937 GMT [5728] SENTENCIA:  ALTER TABLE "product_template" ALTER COLUMN "date_modify" SET NOT NULL
+2023-02-22 14:07:20.315 GMT [5728] ERROR:  la columna «date_modify» contiene valores nulos
+2023-02-22 14:07:20.315 GMT [5728] SENTENCIA:  ALTER TABLE "product_template" ALTER COLUMN "date_modify" SET NOT NULL
+2023-02-22 14:09:08.699 GMT [6252] LOG:  no se pudo recibir datos del cliente: An existing connection was forcibly closed by the remote host.
+	
+2023-02-22 14:09:27.751 GMT [7668] ERROR:  la columna «date_modify» contiene valores nulos
+2023-02-22 14:09:27.751 GMT [7668] SENTENCIA:  ALTER TABLE "product_template" ALTER COLUMN "date_modify" SET NOT NULL
+2023-02-22 14:09:28.553 GMT [7668] ERROR:  la columna «date_modify» contiene valores nulos
+2023-02-22 14:09:28.553 GMT [7668] SENTENCIA:  ALTER TABLE "product_template" ALTER COLUMN "date_modify" SET NOT NULL
+2023-02-22 14:09:28.962 GMT [7668] ERROR:  la columna «date_modify» contiene valores nulos
+2023-02-22 14:09:28.962 GMT [7668] SENTENCIA:  ALTER TABLE "product_template" ALTER COLUMN "date_modify" SET NOT NULL
+2023-02-22 14:10:57.609 GMT [7668] ERROR:  la columna «date_modify» contiene valores nulos
+2023-02-22 14:10:57.609 GMT [7668] SENTENCIA:  ALTER TABLE "product_template" ALTER COLUMN "date_modify" SET NOT NULL
+2023-02-22 15:06:12.884 GMT [7636] LOG:  no se pudo recibir datos del cliente: An existing connection was forcibly closed by the remote host.
+	

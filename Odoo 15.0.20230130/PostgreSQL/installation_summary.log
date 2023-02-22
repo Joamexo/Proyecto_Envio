@@ -1,0 +1,14 @@
+
+summary.installation.directory: C:\Program Files\Odoo 15.0.20230130\PostgreSQL
+summary.server.installation.directory: C:\Program Files\Odoo 15.0.20230130\PostgreSQL
+summary.data.directory: C:\Program Files\Odoo 15.0.20230130\PostgreSQL\data
+summary.database.port: 5432
+summary.database.superuser: openpg
+summary.serviceaccount: openpgsvc
+summary.databaseservice: PostgreSQL_For_Odoo
+summary.clt.installation.directory: C:\Program Files\Odoo 15.0.20230130\PostgreSQL
+summary.pgadmin.installation.directory: C:\Program Files\Odoo 15.0.20230130\PostgreSQL\pgAdmin 4
+summary.sbp.installation.directory: C:\Program Files\Odoo 15.0.20230130\PostgreSQL\stackbuilder
+
+===== Installation completed at: 2023-01-30(YYYY-MM-DD) - 12:35:31(HH:MM:SS) =====
+                            

@@ -1,0 +1,6 @@
+2023-02-19 22:08:50.114 GMT [5768] ERROR:  el valor null para la columna «attribute_id» viola la restricción not null
+2023-02-19 22:08:50.114 GMT [5768] DETALLE:  La fila que falla contiene (2, Cristal, null, null, null, null, 7, 2, 2023-02-19 22:08:50.001461, 2, 2023-02-19 22:08:50.001461).
+2023-02-19 22:08:50.114 GMT [5768] SENTENCIA:  INSERT INTO "product_attribute_value" ("id", "attribute_id", "color", "create_date", "create_uid", "name", "write_date", "write_uid") VALUES (nextval('product_attribute_value_id_seq'), NULL, 7, '2023-02-19 22:08:50.001461', 2, 'Cristal', '2023-02-19 22:08:50.001461', 2) RETURNING id
+2023-02-19 22:09:00.941 GMT [6268] ERROR:  el valor null para la columna «attribute_id» viola la restricción not null
+2023-02-19 22:09:00.941 GMT [6268] DETALLE:  La fila que falla contiene (3, 1.60, null, null, null, null, 9, 2, 2023-02-19 22:09:00.937553, 2, 2023-02-19 22:09:00.937553).
+2023-02-19 22:09:00.941 GMT [6268] SENTENCIA:  INSERT INTO "product_attribute_value" ("id", "attribute_id", "color", "create_date", "create_uid", "name", "write_date", "write_uid") VALUES (nextval('product_attribute_value_id_seq'), NULL, 9, '2023-02-19 22:09:00.937553', 2, '1.60', '2023-02-19 22:09:00.937553', 2) RETURNING id

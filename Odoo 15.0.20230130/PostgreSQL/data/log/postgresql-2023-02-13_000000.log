@@ -1,0 +1,2 @@
+2023-02-13 13:44:07.907 GMT [6088] ERROR:  no se pudo serializar el acceso debido a un delete concurrente
+2023-02-13 13:44:07.907 GMT [6088] SENTENCIA:  DELETE FROM ir_attachment WHERE id IN (118)
